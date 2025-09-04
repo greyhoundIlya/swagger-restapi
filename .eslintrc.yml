@@ -1,0 +1,4 @@
+overrides:
+  - files: ["*.yml", "*.yaml"]
+    rules:
+      yaml/no-invalid-map-key: off
